@@ -11,6 +11,7 @@ To run this project, the following libraries are needed:
 * Scikit-learn: A machine learning library that provides various regression and classification algorithms.
 * Matplotlib: A plotting library for creating visualizations.
 * Seaborn: A data visualization library built on top of Matplotlib.
+* Streamlit: A Python framework for data scientists and AI/ML engineers to deliver interactive data apps. 
 
 Make sure these libraries are installed in your Python environment before running the project.
 
@@ -42,9 +43,13 @@ Make sure these libraries are installed in your Python environment before runnin
 * Model Accuracy and Metrics: Evaluating regression model performance.
 * Model Persistence: Saving the regression model for future applications.
 
-# Result
+# 5. Model Evaluation Result
 * Classification: Achieved 95.41% accuracy with Random Forest Classifier.
 * Regression: Achieved 93.8% accuracy with Random Forest Regressor.
+
+# 6. Streamlit web app
+* A interactive GUI is created to get input from user and feed it to model and displays the result.
+* We can even host this data app in cloud platform too.
 
 # Contact
 Linkedin:www.linkedin.com/in/g-kamaleashwar-28a2802ba
